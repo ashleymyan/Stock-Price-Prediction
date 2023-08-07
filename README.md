@@ -1,1 +1,1 @@
-# Stock-Price-Prediction
+# Stock trading bot
